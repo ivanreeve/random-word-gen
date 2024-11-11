@@ -35,7 +35,6 @@ button:active {
 }
 
 .wordarea {
-  font-size: clamp(11vw, 10vw, 4rem);
   font-weight: bold;
 }
 

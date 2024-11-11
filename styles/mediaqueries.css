@@ -1,0 +1,12 @@
+@media screen and (min-width: 701px) {
+  .wordarea {
+    font-size: 5rem;
+  }
+}
+
+
+@media screen and (max-width: 700px) {
+  .wordarea {
+    font-size: 3rem;
+  }
+}
