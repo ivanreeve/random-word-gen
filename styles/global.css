@@ -21,6 +21,10 @@ body {
   font-family: "Nunito", sans-serif;
 }
 
+button:active {
+  -webkit-tap-highlight-color: transparent;
+}
+
 .wrapper {
   display: flex;
   align-items: center;
@@ -31,7 +35,7 @@ body {
 }
 
 .wordarea {
-  font-size: clamp(10vw, 10vw, 4rem);
+  font-size: clamp(11vw, 10vw, 4rem);
   font-weight: bold;
 }
 
