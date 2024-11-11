@@ -2,7 +2,7 @@
 
 :root {
   --btn-blue: #0c59f2;
-  --btn-blue-bd: #04a5e5;
+  --btn-blue-bd: #0b4ed4;
   --btn-blue-active: #063696;
 
   --btn-gray: #acb0be;
@@ -31,7 +31,7 @@ body {
 }
 
 .wordarea {
-  font-size: clamp(64px, 10vw, 100px);
+  font-size: clamp(10vw, 10vw, 4rem);
   font-weight: bold;
 }
 
@@ -97,4 +97,5 @@ footer {
   align-items: center;
   margin: 40px 0;
   color: var(--btn-gray-text);
+  text-align: center;
 }
