@@ -8,4 +8,4 @@
 
 </div>
 
-Random word generator using random word API
+Random word generator mini project using random word public API
